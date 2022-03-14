@@ -256,7 +256,7 @@ Answer: Dopamine issues are where you are too addicted to doing something to the
 3. Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
 - Paper is an alternative form to digital education, so in a way, it is hindering digital empowerment. At our school, we do not have many barriers to digital education since a majority of curriculum's are now mostly online, and only use paper during things like tests. Elsewhere, I know that many schools do not have enough money to afford a fully digital education, or they are too restrictive on using technology. 
 
-[Tri 3 TT0 Python Menu and SubMenu Challenge](https://replit.com/@TanayRayavarapu/Tri-3-TT0-Python-Menu#main.py)
+# [Tri 3 TT0 Python Menu and SubMenu Challenge](https://replit.com/@TanayRayavarapu/Tri-3-TT0-Python-Menu#main.py)
 
 
 
