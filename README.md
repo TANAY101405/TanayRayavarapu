@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 ### Welcome to Individual Page!
 This is where I will be displaying my individual work and projects/code
 
