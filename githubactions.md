@@ -3,6 +3,7 @@
 # Github Actions
 
 ## 5.4: Crowdsourcing
+- A crowdsourcing idea for our CompSci class would be to have everyone try to learn a new instrument. One thing the entire department has in common is experience with computer science and programming. Since there would less bias towards an instrument, it would be easier to ask everyone to learn a new instrument. Initiating it in the environment would require us to However, some people in CompSci already know how to play an instrument, which shows that crowdsourcing can reach other areas within a specific field. Del Norte Crowdsourcing is harder than for CompSci because there are so many people with different backgrounds. In computer science, we all that in commmon. However, people all over the school have interests in their own thing,so our final project would be better would crowdsourcing. We can gather data from everyone and have them try to learn programming and develop their skills in it.
 
 ## 5.3: Computing Bias
 
