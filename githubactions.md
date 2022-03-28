@@ -8,7 +8,11 @@
 
 2. I think that PII should be kept personal because it is personal information and everyone has the right to privacy. For example, PII can be dangerous because stalkers or scammers can hack the information to find things about you: social security number, school, birthday (age) and more. 
 
-3. 
+3. Good passwords are usually heavily protected because they consist of special keys (capitol letters, symbols, lowercase letters, numbers) that cannot be easily be cracked. Having a bad password would include something that is easily accessible to people online, such as your name, birthday, and age. People can find that information online and would be able to hack your personal accounts, whether it be your bank account or social security number. A way to protect your personal accounts, if they manage to crack your password, would be to have multi-factor authentication. 
+
+4. Symmetric encrpytion is where only one key is used to both encrypt and decrypt the information/data. Asymmetric encryption is where a pair or related keys are used to decrypt and encrypt information to secure it from unauthorized sources.
+
+5. 
 
 
 
