@@ -12,7 +12,9 @@
 
 4. Symmetric encrpytion is where only one key is used to both encrypt and decrypt the information/data. Asymmetric encryption is where a pair or related keys are used to decrypt and encrypt information to secure it from unauthorized sources.
 
-5. 
+5. Example of encryption in deployment is the software we use to deploy the website. The website must be secure through HTTPS, and we use Amazon Web Services with an EC2 Instance. The security of the software, Amazon Web Services, can be encryption in deployment.
+
+6. I have never fell for a phising scheme, but some of my friends and family have experienced scammers pretending to be from a company that hopes to aid in securing their accounts. The scammers ask for personal information so that they are better suited to help,  but they actually steal PII or send malware/viruses to the device that you open the links on.
 
 
 
