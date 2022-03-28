@@ -2,6 +2,28 @@
 
 # Github Actions
 
+
+## 5.6 Safe Computing:
+1. I have seen PII (Personal identifiable information) when working with databases. For example, in our menu and submenu on replit, we have a database function that consists of my name, birthday, sport, or hobby. This is all personal information that can be viewed by the public. As well, in our CRUD program from last trimester, we dispalyed our name, age, and email on a public page that could be viewed by anyone (Cspcoders.nighthawkcodingsociety.com)
+
+2. I think that PII should be kept personal because it is personal information and everyone has the right to privacy. For example, PII can be dangerous because stalkers or scammers can hack the information to find things about you: social security number, school, birthday (age) and more. 
+
+3. 
+
+
+
+## 5.5 Legal and Ethical Concerns:
+Difference Licensing Types for Github:
+
+1. MIT License
+2. GNU (General Public License)
+3. Apache License 2.0
+4. Unlicense
+5. GNU GPLv3
+6. Creative Commons License
+
+
+
 ## 5.4: Crowdsourcing
 - A crowdsourcing idea for our CompSci class would be to have everyone try to learn a new instrument. One thing the entire department has in common is experience with computer science and programming. Since there would less bias towards an instrument, it would be easier to ask everyone to learn a new instrument. Initiating it in the environment would require us to However, some people in CompSci already know how to play an instrument, which shows that crowdsourcing can reach other areas within a specific field. Del Norte Crowdsourcing is harder than for CompSci because there are so many people with different backgrounds. In computer science, we all that in commmon. However, people all over the school have interests in their own thing,so our final project would be better would crowdsourcing. We can gather data from everyone and have them try to learn programming and develop their skills in it.
 
