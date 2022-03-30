@@ -1,45 +1,57 @@
-# 1. file names will be run by exec(open("filename.py").read())
-# 2. function references will be executed directly file.function()
-# imports from other .py files
-from week0 import ship
-from week1 import datalists
+from week0 import ship, matrix, swap, tree
+from week1 import datalists, fibonacci
+from week2 import factorial, math, palindrome
 
-# Main Menu
-main_menu = [
-    ["Factorial", "week2/factorial.py"],
-    ["Palindrome", "week2/palindrome.py"],
-    ["Math Functions", "week2/math.py"]
-]
-# Submenu list of [Prompt, Action]
-# Works similarly to main_menu
-sub_menu = [
-    ["Fibonacci", "week1/fibonacci.py"],
-    ["Datalists", datalists.main],
-    ["Swap", "week0/swap.py"],
-    ["Tree", "week0/tree.py"],
-    ["Ship", ship.ship],
-    ["Keypad", "week0/keypad.py"]
-]
+# ------------------------------------------------
+
 border = "=" * 25
 banner = f"\n{border}\nChoose one of the options: \n{border}"
-def menuc():
-    title = "Class Menu" + banner
-    menu_list = main_menu.copy()
-    menu_list.append(["Submenu", submenuc])
-    m = questy.Menu(title, menu_list)
-    m.menu()
-def submenuc():
-    title = "Class Submenu" + banner
-    m = questy.Menu(title, sub_menu)
-    m.menu()
+
 def menu():
     title = "Tanay Rayavarapu's Menu" + banner
-    menu_list = main_menu.copy()
-    menu_list.append(["Previous Tasks", submenu])
-    buildMenu(title, menu_list)
-def submenu():
+    buildMenu(title, main_menu)
+  
+def numbersmenu():
     title = "Function Submenu" + banner
-    buildMenu(title, sub_menu)
+    buildMenu(title, numbers_menu)
+
+def datamenu():
+  title = "Function Submenu" + banner
+  buildMenu(title, data_menu)
+
+def visualmenu():
+  title = "Function Submenu" + banner
+  buildMenu(title, visual_menu)
+  
+# ------------------------------------------------
+
+main_menu = [
+    ["Math and Numbers", numbersmenu],
+    ["Data and Words", datamenu],
+    ["Visuals", visualmenu]
+]
+
+numbers_menu = [
+    ["Fibonacci", fibonacci.fibonacci],
+    ["Swap", swap.swap],
+    ["Number Pad", matrix.matrix],
+    ["Imperative GCD", math.findgcd],
+    ["Oop GCD", math.gcdcall],
+    ["Oop Factorial", factorial.factorial]    
+]
+
+data_menu = [
+    ["Datalists", datalists.main],
+    ["Palindrome", palindrome.P],
+]
+
+visual_menu = [
+    ["Tree", tree.tree],
+    ["Ship", ship.ship],
+]
+
+# ------------------------------------------------
+
 def buildMenu(banner, options):
     print(banner)
     prompts = {0: ["Exit", None]}

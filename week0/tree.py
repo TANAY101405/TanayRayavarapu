@@ -15,8 +15,8 @@ def triangleShape(n):
 
 
 # Input and Function Call
-row = int(input('Enter number of rows: '))
-
-triangleShape(row)
-triangleShape(row)
-poleShape(row)
+def tree():
+  row = int(input('Enter number of rows: '))
+  triangleShape(row)
+  triangleShape(row)
+  poleShape(row)

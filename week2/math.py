@@ -33,7 +33,8 @@ class findgcd:
             self.num2 = self.num2 - self.num1
     return self.num1
 
-oop = findgcd(18, 200)
-print("\nFinding the GCD of 18 and 200... : ")
-print(oop.findgcdfunc(18, 200))
-print("-------------------------------")
+def gcdcall():
+  oop = findgcd(18, 200)
+  print("\nFinding the GCD of 18 and 200... : ")
+  print(oop.findgcdfunc(18, 200))
+  print("-------------------------------")
