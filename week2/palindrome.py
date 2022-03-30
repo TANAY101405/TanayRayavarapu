@@ -14,6 +14,6 @@ class Palindrome():
             else:
                 print(original + " --> is not a palindrome")
 
-
-P = Palindrome()
-P()
+def palindromecall():
+  P = Palindrome()
+  P()

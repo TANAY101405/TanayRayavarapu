@@ -35,14 +35,13 @@ numbers_menu = [
     ["Fibonacci", fibonacci.fibonacci],
     ["Swap", swap.swap],
     ["Number Pad", matrix.matrix],
-    ["Imperative GCD", math.findgcd],
     ["Oop GCD", math.gcdcall],
-    ["Oop Factorial", factorial.factorial]    
+    ["Oop Factorial", factorial.factorialcall]    
 ]
 
 data_menu = [
     ["Datalists", datalists.main],
-    ["Palindrome", palindrome.P],
+    ["Palindrome", palindrome.palindromecall],
 ]
 
 visual_menu = [

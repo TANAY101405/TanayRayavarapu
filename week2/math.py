@@ -2,8 +2,6 @@
 
 
 #written in imperative form
-print("-------------------------------")
-print("\nStart of Imperative Programming of GCD Function")
 def findgcd(num1, num2):
     if num1 == 0:
         return num1
@@ -16,7 +14,6 @@ def findgcd(num1, num2):
 
 
 #Object-Oriented Programming
-print("\nStart of OOP Programming of GCD Function")
 class findgcd:
   def __init__(self, num1, num2):
     self.num1 = 18

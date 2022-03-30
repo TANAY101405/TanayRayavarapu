@@ -5,10 +5,11 @@ class factorial:
       final = final * i
     return final
 
-factorial = factorial()
-number = input("Number to find factorial of: ")
-number = int(number)
-print("Factorial of ", number, "is",   factorial(number))
+def factorialcall():
+  fact = factorial()
+  number = input("Number to find factorial of: ")
+  number = int(number)
+  print("Factorial of ", number, "is",   fact(number))
 
 # Hack 3
 
