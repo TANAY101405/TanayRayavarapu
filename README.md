@@ -8,7 +8,7 @@ This is where I will be displaying my individual work and projects/code
 # Table of Contents
 [Review Tickets Timebox](#week-review-tickets-timebox) |
 [Capture the Moment](#capture-the-moment) |
-[Night at the Museum Pictures](#night-at-the-museum) 
+[Night at the Museum](#night-at-the-museum) 
 
 # Week Review Tickets (TimeBox)
 
