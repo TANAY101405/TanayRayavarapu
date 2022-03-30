@@ -1,8 +1,16 @@
 {% include navigation.html %}
 
 # 5.1-5.6 Notes
+| Section |
+| --- |
+| [5.1](#51-notes-beneficial-and-harmful-effects) |
+| [5.2](#52-digital-divide) |
+| [5.3](#53-computing-bias) |
+| [5.4](#54-crowdsourcing) |
+| [5.5](#55-legal-and-ethical-concerns) |
+| [5.6](#56-safe-computing) |
 
-## 5.1 Notes: Beneficial and Harmful Effects
+## 5.1 Notes Beneficial and Harmful Effects
 Accelerometer:
 - Automobile industry drove price down
 - Used for airbag deployment and lateral movement detection
