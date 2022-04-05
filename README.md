@@ -17,6 +17,7 @@ Week Number | Theme | Review Ticket |
 Week 0 | Plans, Teams, and Jobs | [Review Ticket](https://github.com/TANAY101405/TanayRayavarapu/issues/1#issue-1168806462) | 
 Week 1 | Lists and Loops | [Review Ticket](https://github.com/TANAY101405/TanayRayavarapu/issues/2) | 
 Week 2 | Classy Functions | [Review Ticket](https://github.com/TANAY101405/TanayRayavarapu/issues/8) | 
+Week 3 | Algorithmic Final | [Review Ticket](https://github.com/TANAY101405/TanayRayavarapu/issues/9) | 
 
 # Capture the Moment
 
