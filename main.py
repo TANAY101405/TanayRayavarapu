@@ -1,6 +1,6 @@
 from week0 import ship, matrix, swap, tree
 from week1 import datalists, fibonacci
-from week2 import factorial, math, palindrome, numberguesser
+from week2 import factorial, math, palindrome, numberguesser, testgame
 
 #import functions from each week folder
 
@@ -62,6 +62,7 @@ visual_menu = [
 
 games_menu = [
     ["Number Guesser", numberguesser.guesser],
+    ["Calculator", testgame.domath],
 ]
 
 # ------------------------------------------------
