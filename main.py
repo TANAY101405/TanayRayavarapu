@@ -26,6 +26,11 @@ def datamenu():
 def visualmenu():
   title = "Function Submenu" + banner
   buildMenu(title, visual_menu)
+
+def gamesmenu():
+  title = "Function Submenu" + banner
+  buildMenu(title, games_menu)
+  
   
 # ------------------------------------------------
 
@@ -33,7 +38,8 @@ def visualmenu():
 main_menu = [
     ["Math and Numbers", numbersmenu],
     ["Data and Words", datamenu],
-    ["Visuals", visualmenu]
+    ["Visuals", visualmenu],
+    ["Mini-Games", gamesmenu]
 ]
 
 numbers_menu = [
@@ -52,6 +58,10 @@ data_menu = [
 visual_menu = [
     ["Tree", tree.tree],
     ["Ship", ship.ship],
+]
+
+games_menu = [
+    ["Number Guesser", numberguesser.guesser],
 ]
 
 # ------------------------------------------------
