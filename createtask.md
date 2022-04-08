@@ -4,6 +4,12 @@
 
 ## [Replit](https://replit.com/join/exrbjdfqkt-tanayrayavarapu)
 
+
+[Write Up](https://docs.google.com/document/d/1FYIpL17op3UzAXX1SmSIMAMgkib8PvjqYeU8Rd9GEyI/edit?usp=sharing)
+
+[Runtime Video](https://www.loom.com/share/c23b565cf2e0436cbb1218f117a53a68)
+
+
 Must Include:
 1. One list (or other collection type)
 2. One procedure 
