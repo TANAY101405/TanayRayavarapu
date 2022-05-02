@@ -21,20 +21,15 @@ Finals Quiz| Score |
 Quiz 3 | 45/50 | 
 
 
-### MCQ 1: 45/50
+### MCQ 3: 45/50
 
 Question Number| What was the mistake and what is right | Area of Review | 
 ----- | ----- | ----- |
- Q23 | While the IP Address from a user's computer gives some information to the Internet, it does not provide much more personal information. In fact, cookies help websites learn more about users that visited them |  Impact of Gathering Data  | 
- Q42 | The next decimal value will go to 2^2 as it is after 2^1 + 2^0. Therefore, the answer is A: 1001 0100 |  Binary Implementation in Algorithms  | 
- 
- ### MCQ 2: 47/50
-
-Question Number| What was the mistake and what is right | Area of Review | 
------ | ----- | ----- |
- Q32 | 4 bits are enough to store 16 pieces of information, so you do not need extra bits | Binary and Solving | 
- Q35 | Integers are not subject to rounding errors because you cannot approximate them. However, the sum would cause an overflow error because it exceeds the amount of bits | Binary and Solving | 
- Q42 | Cloud Computing needs redundancy, doesn't eliminate it. In fact, it works to help users collaborate and protect private information | Impact of a computing Innovation  | 
+ Q2 | Not all solutions can be solved algorithmically, even if the files are large. Therefore the answer is D. |  Investigate the situation, context, or task  | 
+ Q6 | The answer is not C because the number 20 isn't counted in the alogorithm. As soon as x becomes 20, the algorithm terminates |  Represent algorithmic processes without using a programming language.  | 
+ Q7 | The error will not terminate and return with a value. In each subsequent iteration of the loop, the value of j increases until it exceeds n. Then, the program will stop.  |  Determine the result of code segments.  |
+ Q13 | Have to add initial 25 * 5 dollars to the value after the first 25 units |  Implement and apply an algorithm  | 
+ Q44 | Generalizes the square and cube functions to 'power', not add. Therefore, it does n to the power of m. |  Explain how abstraction manages complexity.  | 
 
 
 -----------------------------------------------------------------------------------------
