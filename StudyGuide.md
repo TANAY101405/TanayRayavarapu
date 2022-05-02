@@ -31,6 +31,10 @@ Question Number| What was the mistake and what is right | Area of Review |
  Q13 | Have to add initial 25 * 5 dollars to the value after the first 25 units |  Implement and apply an algorithm  | 
  Q44 | Generalizes the square and cube functions to 'power', not add. Therefore, it does n to the power of m. |  Explain how abstraction manages complexity.  | 
 
+### Evidence of debug: 
+
+<img width="585" alt="Screen Shot 2022-05-02 at 1 05 22 PM" src="https://user-images.githubusercontent.com/60719508/166317679-15c6b4fe-5c48-4a6b-af73-275fc7b71c3d.png">
+
 
 -----------------------------------------------------------------------------------------
 
