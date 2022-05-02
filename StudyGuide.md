@@ -2,6 +2,45 @@
 
 # Study Plan
 
+## Week 7
+
+4/25: Work throughout week on finishing up Create Task touches
+
+4/26: Complete Quiz 3 MCQ and reflect on possible improvements/declines from last week
+
+4/27: Work more on Create Task and get a final review from a crossover grader that can review the code
+
+4/28: Work on Quiz 3 MCQ corrections and further study the topics that I need to improve on
+
+4/29: Revise write-up and possible re-record video to match new changes to Create Task; submit over weekend
+
+### Quiz Scores and Corrections
+
+Finals Quiz| Score | 
+----- | ----- | 
+Quiz 3 | 45/50 | 
+
+
+### MCQ 1: 45/50
+
+Question Number| What was the mistake and what is right | Area of Review | 
+----- | ----- | ----- |
+ Q23 | While the IP Address from a user's computer gives some information to the Internet, it does not provide much more personal information. In fact, cookies help websites learn more about users that visited them |  Impact of Gathering Data  | 
+ Q42 | The next decimal value will go to 2^2 as it is after 2^1 + 2^0. Therefore, the answer is A: 1001 0100 |  Binary Implementation in Algorithms  | 
+ 
+ ### MCQ 2: 47/50
+
+Question Number| What was the mistake and what is right | Area of Review | 
+----- | ----- | ----- |
+ Q32 | 4 bits are enough to store 16 pieces of information, so you do not need extra bits | Binary and Solving | 
+ Q35 | Integers are not subject to rounding errors because you cannot approximate them. However, the sum would cause an overflow error because it exceeds the amount of bits | Binary and Solving | 
+ Q42 | Cloud Computing needs redundancy, doesn't eliminate it. In fact, it works to help users collaborate and protect private information | Impact of a computing Innovation  | 
+
+
+-----------------------------------------------------------------------------------------
+
+## Week 6
+
 4/18: Watch Collegeboard Videos on earlier Units and polish Create Task during class; At home, go through AP preparation book and start diving deep into the content for review purposes (Binary Digits + Ascii and Decimal Values and more math focused review)
 
 4/19: Complete Quiz 1 during class and reflect on how I did and what I can improve on; Complete more AP Preperation at home
@@ -12,7 +51,7 @@
 
 4/22: Finalize Create Task and work on crossover review with someone else more experienced to see if it meets requirements or needs improvement
 
-# Quiz Scores and Corrections
+### Quiz Scores and Corrections
 
 Finals Quiz| Score | 
 ----- | ----- | 
