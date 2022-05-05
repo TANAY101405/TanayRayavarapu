@@ -4,6 +4,45 @@
 
 ## Week 7
 
+5/2:  
+
+5/3: 
+
+5/4: Work on 50% of Quiz 5
+
+5/5: Work on 2nd half of 50% of Quiz 5
+
+5/6: 
+
+### Quiz Scores and Corrections
+
+Finals Quiz| Score | 
+----- | ----- | 
+Quiz 3 | 45/50 | 
+
+
+### MCQ 3: 45/50
+
+Question Number| What was the mistake and what is right | Area of Review | 
+----- | ----- | ----- |
+ Q2 | Not all solutions can be solved algorithmically, even if the files are large. Therefore the answer is D. |  Investigate the situation, context, or task  | 
+ Q6 | The answer is not C because the number 20 isn't counted in the alogorithm. As soon as x becomes 20, the algorithm terminates |  Represent algorithmic processes without using a programming language.  | 
+ Q7 | The error will not terminate and return with a value. In each subsequent iteration of the loop, the value of j increases until it exceeds n. Then, the program will stop.  |  Determine the result of code segments.  |
+ Q13 | Have to add initial 25 * 5 dollars to the value after the first 25 units |  Implement and apply an algorithm  | 
+ Q44 | Generalizes the square and cube functions to 'power', not add. Therefore, it does n to the power of m. |  Explain how abstraction manages complexity.  | 
+
+### Evidence of debug: 
+
+<img width="585" alt="Screen Shot 2022-05-02 at 1 05 22 PM" src="https://user-images.githubusercontent.com/60719508/166317679-15c6b4fe-5c48-4a6b-af73-275fc7b71c3d.png">
+
+
+-----------------------------------------------------------------------------------------
+
+
+
+
+## Week 6
+
 4/25: Work throughout week on finishing up Create Task touches
 
 4/26: Complete Quiz 3 MCQ and reflect on possible improvements/declines from last week
@@ -38,7 +77,7 @@ Question Number| What was the mistake and what is right | Area of Review |
 
 -----------------------------------------------------------------------------------------
 
-## Week 6
+## Week 5
 
 4/18: Watch Collegeboard Videos on earlier Units and polish Create Task during class; At home, go through AP preparation book and start diving deep into the content for review purposes (Binary Digits + Ascii and Decimal Values and more math focused review)
 
